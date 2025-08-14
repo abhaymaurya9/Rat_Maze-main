@@ -50,4 +50,4 @@ int main() {
 	mazehelper(maze,n,path,0,0);
 	// Write your code here
 	return 0;
-}
+} 
